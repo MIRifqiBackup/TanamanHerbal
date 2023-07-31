@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\bozzc\\AndroidStudioProjects\\TanamanHerbal\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\toolbar.xml",
+        "source": "C:\\Users\\bozzc\\AndroidStudioProjects\\TanamanHerbal\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bozzc\\AndroidStudioProjects\\TanamanHerbal\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\bozzc\\AndroidStudioProjects\\TanamanHerbal\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\bozzc\\AndroidStudioProjects\\TanamanHerbal\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item_main.xml",
+        "source": "C:\\Users\\bozzc\\AndroidStudioProjects\\TanamanHerbal\\app\\src\\main\\res\\layout\\list_item_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bozzc\\AndroidStudioProjects\\TanamanHerbal\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\bozzc\\AndroidStudioProjects\\TanamanHerbal\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
